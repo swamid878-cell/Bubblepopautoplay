@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bubble Pop Auto Player</string>
+    <string name="accessibility_description">Controls Bubble Pop Legends using screen analysis and safe gestures.</string>
+</resources>
